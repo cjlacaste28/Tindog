@@ -38,4 +38,4 @@ You can see the live demo of the website here:
  
 ## Author
  
-- [Christian Lacaste](https://christianlacaste.me/)
+ * [Christian Lacaste](https://christianlacaste.me/)
